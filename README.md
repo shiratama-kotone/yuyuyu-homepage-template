@@ -1,2 +1,21 @@
 # yuyuyu-homepage-template
-ホームページのテンプレです。 自由に使ってね
+ホームページのテンプレです。自由に使ってね。
+
+## 使い方
+〇〇には自分の名前をいれる
+あとはメモで書いてある
+アップロードするときのやり方は Filesを開いて Upload File を押してアップロードする。
+リンクコピーのやり方は Assets を開いて リンクコピーしたいファイルを開いて、 Copy URL を押す
+
+## リンクの変え方
+2パターンあります。
+
+### 1個目
+Settings を押して、 Edit Project Details を押す。
+すると、 Project name とあるからそこの名前を変える。
+そしたら勝手に反映されてる。
+
+### 2個目
+Settings を押して、 Go to Project page を押す。
+そしたらプロジェクトページが開くから、 Edit details を押して、 yuyuyu-homepage-template と書いてあるとこを変える。
+そしたら1個目と同じように勝手に反映されてる。
