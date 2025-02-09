@@ -35,6 +35,6 @@ Settings を押して、 Go to Project page を押す。
       </a>
 </button>
 
-<a href="https://render.com/deploy?repo="https://github.com/shiratama-kotone/yuyuyu-homepage-template">
+<a href="https://render.com/deploy?repo=https://github.com/shiratama-kotone/yuyuyu-homepage-template">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
 </a>
