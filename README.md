@@ -21,6 +21,7 @@ Settings を押して、 Go to Project page を押す。
 そしたらプロジェクトページが開くから、 Edit details を押して、 yuyuyu-homepage-template と書いてあるとこを変える。
 そしたら1個目と同じように勝手に反映されてる。
 
+<button>
 <a
         class="btn--remix"
         target="_top"
@@ -32,3 +33,4 @@ Settings を押して、 Go to Project page を押す。
         />
         Remix on Glitch
       </a>
+</button>
