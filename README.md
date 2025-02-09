@@ -25,7 +25,7 @@ Settings を押して、 Go to Project page を押す。
 <a
         class="btn--remix"
         target="_top"
-        href="https://glitch.com/edit/#!/remix/glitch-hello-website"
+        href="https://glitch.com/edit/#!/remix/yuyuyu-homepage-template"
       >
         <img
           src="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FLogo_Color.svg?v=1618199565140"
